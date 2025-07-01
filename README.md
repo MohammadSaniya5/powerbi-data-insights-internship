@@ -52,9 +52,32 @@ Build a Power BI data model by integrating multiple datasets (student performanc
 - Data Modeling (Star Schema)
 
 ---
+## Week 3: Dashboard Design Fundamentals
 
-## More Coming Soon
-- Week 3: Dashboard Design Fundamentals  
+### Task Objective
+Design a dashboard layout based on the Week 2 data model for student performance and attendance. The focus is on creating an intuitive, interactive, and goal-driven Power BI dashboard.
+
+### Deliverables
+- Dashboard layout plan (top-down structure)
+- Sketch (handmade-style image mockup)
+- Visual element mapping with business objectives
+- Detailed explanation of:
+  - KPI Cards
+  - Bar/Line/Pie Charts
+  - Matrix Table
+- Interactivity: slicers, drill-down, tooltips
+- Design principles: color coding, font hierarchy, layout balance
+
+### Files
+- week3_Dashboard_design_Mohammad_Saniya.pdf  
+
+### Tools Used
+- Power BI (conceptual)
+- Canva / Python (for mockup sketch)
+- MS Word (for documentation)
+  
+---
+## More Coming Soon 
 - Week 4: Advanced Analytics and Custom Visuals  
 - Week 5: Performance Optimization  
 - Week 6: Final Presentation

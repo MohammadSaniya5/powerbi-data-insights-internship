@@ -77,8 +77,35 @@ Design a dashboard layout based on the Week 2 data model for student performance
 - MS Word (for documentation)
   
 ---
-## More Coming Soon 
-- Week 4: Advanced Analytics and Custom Visuals  
+## Week 4: Advanced Analytics and Custom Visuals
+
+### Task Objective
+To simulate real-world Power BI usage by applying advanced analytics techniques, including complex DAX formulas and custom visuals, layered on top of an existing academic data model.
+
+### Business Scenario
+Identify students who are underperforming due to consistently low attendance and support early intervention strategies using visual and analytical insights.
+
+### Advanced DAX Measures
+- `AtRiskFlag`: Flags students with <75% attendance AND <40% score.
+- `AttendanceTrend`: Calculates average attendance trend over the last 3 months.
+- `ScoreZScore`: Highlights outliers in score distribution.
+- `CountAtRiskStudents`: Dynamic KPI to track total risk cases.
+
+### Custom Visuals Used
+- Bullet Chart (OKViz): Score vs. target performance
+- Radar Chart (Microsoft): Skill gap comparison across subjects
+- Decomposition Tree: Drill-down from Class → Student → Risk flag
+- Hierarchy Slicer: Multi-level filtering by class, gender, subject
+
+### Key Learnings
+- Linked DAX measures to visuals via Power BI’s star schema model.
+- Integrated advanced visuals to uncover actionable trends.
+- Simulated real-school use cases for early intervention and resource planning.
+
+### Files
+- Week4_Advanced_Analytics_MohammadSaniya.pdf
+---
+## More Coming Soon  
 - Week 5: Performance Optimization  
 - Week 6: Final Presentation
 

@@ -108,7 +108,7 @@ Identify students who are underperforming due to consistently low attendance and
 
 ## Week 5: Performance Optimization and Report Enhancement
 
-### 🛠Task Objective
+### Task Objective
 To optimize Power BI reports and data models for faster load times, cleaner visuals, and real-world usability. The goal was to simulate industry practices like query tuning, visual streamlining, and performance validation.
 
 ### Key Optimizations Applied

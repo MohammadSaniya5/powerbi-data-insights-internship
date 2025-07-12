@@ -105,8 +105,38 @@ Identify students who are underperforming due to consistently low attendance and
 ### Files
 - Week4_Advanced_Analytics_MohammadSaniya.pdf
 ---
-## More Coming Soon  
-- Week 5: Performance Optimization  
+
+## Week 5: Performance Optimization and Report Enhancement
+
+### 🛠Task Objective
+To optimize Power BI reports and data models for faster load times, cleaner visuals, and real-world usability. The goal was to simulate industry practices like query tuning, visual streamlining, and performance validation.
+
+### Key Optimizations Applied
+- **Query Folding**: Applied in Power Query to reduce memory load  
+- **Incremental Refresh**: Enabled on Attendance table to speed up updates  
+- **Aggregation Tables**: Used to pre-summarize KPIs by class/subject  
+- **Optimized DAX**: Rewrote formulas using `VAR` to reduce calculation time  
+- **Model Simplification**: Removed unused columns and unnecessary relationships  
+- **Auto Date/Time Disabled**: Improved memory and responsiveness
+
+### Visual & UX Enhancements
+- Reduced slicer overload  
+- Used **bookmarks** to toggle visual sections  
+- Added **tooltips** instead of on-screen clutter  
+- Reorganized visuals across multiple pages
+
+### Before vs After (Estimated)
+| Metric              | Before        | After       |
+|---------------------|---------------|-------------|
+| Refresh Time        | ~2 mins       | ~45 sec     |
+| Visual Load Time    | 5–6 sec       | 1–2 sec     |
+| Memory Usage        | High          | Optimized   |
+| DAX Complexity      | Repetitive    | Optimized   |
+
+### Files
+- Week5_Performance_Optimization_MohammadSaniya.pdf
+---
+## More Coming Soon    
 - Week 6: Final Presentation
 
 

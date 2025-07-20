@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/MohammadSaniya5/powerbi-data-insights-internship/blob/main/banner.png" alt="Power BI Internship Banner" width="100%">
+</p>
 
 # YuvaIntern – Power BI Internship
 ![Internship](https://img.shields.io/badge/Internship-YuvaIntern%20%2B%20NSDC-blue)

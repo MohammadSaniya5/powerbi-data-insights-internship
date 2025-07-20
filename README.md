@@ -1,4 +1,9 @@
+
 # YuvaIntern – Power BI Internship
+![Internship](https://img.shields.io/badge/Internship-YuvaIntern%20%2B%20NSDC-blue)
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-Student%20Project-lightgrey)
 
 This repository contains my weekly submissions for the Power BI Data Insights Internship conducted by YuvaIntern. Each week focuses on a different stage of building a data-driven solution using Power BI.
 
@@ -136,7 +141,47 @@ To optimize Power BI reports and data models for faster load times, cleaner visu
 ### Files
 - Week5_Performance_Optimization_MohammadSaniya.pdf
 ---
-## More Coming Soon    
-- Week 6: Final Presentation
+ ## Week 6: Final Evaluation and Presentation of Data Insights
+
+### Task Objective
+Compile and present the complete Power BI internship journey — from data strategy to dashboard optimization — in a final report. Demonstrate how data insights can drive academic decision-making.
+
+### Deliverables
+- Executive summary of the overall project  
+- Week-wise methodology recap  
+- Key insights and performance findings  
+- Documented challenges and resolutions  
+- Future recommendations for enhancing dashboards  
+- Real-world case study for actionable intervention
+
+### File
+- Week6_Final_Report_Mohammad_Saniya.pdf
+
+### Tools Used
+- Power BI Desktop  
+- Power Query Editor  
+- DAX (CALCULATE, VAR, RANKX, FILTER)  
+- Custom Visuals (Bullet Chart, Radar Chart, Decomposition Tree)
+
+---
+
+## Completion Summary
+
+Over the course of 6 weeks, this internship provided hands-on experience with end-to-end Power BI development — from building a strategic data plan to optimizing a fully interactive dashboard. Each week focused on a core data analytics skill:
+
+- Week 1: Strategic planning for data use in education
+- Week 2: Data modeling and relationship building
+- Week 3: Designing impactful dashboards
+- Week 4: Applying advanced analytics and custom visuals
+- Week 5: Optimizing performance and report responsiveness
+- Week 6: Presenting final insights and strategic recommendations
+
+This repository showcases my complete Power BI journey — including business goals, technical implementations, and insights that can drive real-world academic decisions. The project was executed under the **YuvaIntern + NSDC Virtual Internship Program**, and is now a proud part of my data analytics portfolio.
+
+### Certificate of Completion (coming soon)
+
+---
+
+Feel free to explore the reports and leave feedback or suggestions!
 
 
